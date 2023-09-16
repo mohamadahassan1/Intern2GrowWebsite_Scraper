@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Campus Ambassador",
+        "description": "Be the face of Intern2Grow in your university or just on social media.",
+        "skills": [
+            "Time Management",
+            "Leadership",
+            "Team Work"
+        ]
+    },
+    {
+        "name": "UI Developer",
+        "description": "Convert figma designs into web pages, and make sure that everything is responsive.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "Git",
+            "GitHub",
+            "Figma"
+        ]
+    },
+    {
+        "name": "JavaScript Frontend Developer",
+        "description": "Fix frontend related bugs and add new features to the website.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git",
+            "GitHub"
+        ]
+    },
+    {
+        "name": "React.js Developer",
+        "description": "Fix frontend related bugs and add new features to the website.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Git",
+            "GitHub"
+        ]
+    },
+    {
+        "name": "Data Analyst",
+        "description": "You will be given a small dataset and a set of questions to answer using that data. You will be expected to use your data analysis skills to answer the questions and present your findings in a clear and concise manner.",
+        "skills": [
+            "Python",
+            "Numpy",
+            "Pandas",
+            "Data Cleaning in Python",
+            "Data Visualization",
+            "Basic Knowledge of Statistics"
+        ]
+    },
+    {
+        "name": "UI/UX Designer",
+        "description": "Turn ideas into UI/UX designs, and redesign existing websites.",
+        "skills": [
+            "Design Tools",
+            "UI Design",
+            "UX Design"
+        ]
+    },
+    {
+        "name": "Mobile Developer",
+        "description": "Convert UI/UX figma designs into fully functional mobile applications.",
+        "skills": [
+            "Dart",
+            "Java",
+            "Kotlin",
+            "React Native",
+            "or any alternative",
+            "Git",
+            "GitHub",
+            "Figma"
+        ]
+    },
+    {
+        "name": "Console Programmer",
+        "description": "Build console applications with your favorite programming language to solve certain problems.",
+        "skills": [
+            "C++",
+            "Python",
+            "C",
+            "C#",
+            "Java",
+            "or any programming language"
+        ]
+    },
+    {
+        "name": "Web Scraping Specialist",
+        "description": "Write programs that can harvest/extract data from certain websites.",
+        "skills": [
+            "JavaScript",
+            "Python",
+            "or any programming language"
+        ]
+    },
+    {
+        "name": "Graphic Designer",
+        "description": "Design logos, banners, and social media posts.",
+        "skills": [
+            "Photoshop",
+            "Pixlr",
+            "Adobe Spark",
+            "or any design tool"
+        ]
+    }
+]
